@@ -6,9 +6,8 @@ This repository contains all tasks assigned during my **Data Science Internship*
 
 - **Position**: Data Science Intern  
 - **Objective**: Gain hands-on experience in building data-driven models across real-world domains.  
-- **Duration**: [Start Date] – April 19th, 2025  
 - **Submission Deadline**: April 19th, 2025  
-- **Company**: [Company Name]
+- **Company**:  DevelopersHub Corporation
 
 ---
 
@@ -93,7 +92,7 @@ For each task:
 
 **Momina Zaheer**  
 _Data Science Intern_  
-[https://www.linkedin.com/in/momina-zaheer-633b0030b/] | [mzmomina11@gmail.com] | [https://github.com/Momina29311]
+https://www.linkedin.com/in/momina-zaheer-633b0030b/ | mzmomina11@gmail.com |  https://github.com/Momina29311
 
 
 
